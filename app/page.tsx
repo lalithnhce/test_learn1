@@ -6,6 +6,6 @@ export default function Home() {
         Hi. Welcome to the webpage
       </div>
       <Button></Button>
-    </div>
+      </div>
   );
 }
